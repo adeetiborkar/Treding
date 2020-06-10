@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-10T20:17:48Z" name="Suite" finished-at="2020-06-10T20:19:24Z" duration-ms="95508">
+    <groups>
+    </groups>
+    <test started-at="2020-06-10T20:17:48Z" name="Test" finished-at="2020-06-10T20:19:24Z" duration-ms="95508">
+      <class name="GaneshBorkar.NSE.Edelweiss">
+        <test-method is-config="true" signature="Driver()[pri:0, instance:GaneshBorkar.NSE.Edelweiss@69b794e2]" started-at="2020-06-11T01:47:48Z" name="Driver" finished-at="2020-06-11T01:47:57Z" duration-ms="9459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method signature="NSE_Option_chain()[pri:0, instance:GaneshBorkar.NSE.Edelweiss@69b794e2]" started-at="2020-06-11T01:47:58Z" name="NSE_Option_chain" finished-at="2020-06-11T01:49:21Z" duration-ms="83978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NSE_Option_chain -->
+        <test-method is-config="true" signature="tearApart()[pri:0, instance:GaneshBorkar.NSE.Edelweiss@69b794e2]" started-at="2020-06-11T01:49:21Z" name="tearApart" finished-at="2020-06-11T01:49:24Z" duration-ms="2050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearApart -->
+      </class> <!-- GaneshBorkar.NSE.Edelweiss -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
